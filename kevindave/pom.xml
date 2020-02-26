@@ -50,8 +50,7 @@
     <dependency>
       <groupId>com.xendit</groupId>
       <artifactId>xendit-java-lib</artifactId>
-      <version>1.4.0</version>
-      <type>pom</type>
+      <version>1.5.1</version>
     </dependency>
   </dependencies>
 
